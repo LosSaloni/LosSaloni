@@ -1,14 +1,18 @@
-<h1 class="font-serif"> 𝓑𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵👋</h1>
-<p>Estou estudando atualmente na Etec de cerquilho 2 DS noturno</p>
+<img align="right" width="220" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
 
-Possuo conhecimento em
-<ul>
-  <li>Linguagens: JavaScript, Java, Phynton</li>
-  <li>IDE: Visual Studio Code</li>
-  <li>Frameworks: Bootstrap</li>
-  <li>Banco de dados: MySQL</li>
-  <li>Sistemas operacionais: Windows e Linux</li>
-</ul>
+# 𝓑𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 👋
+
+Estou estudando atualmente na Etec de Cerquilho 2 DS Noturno.
+
+## Possuo conhecimento em
+
+- JavaScript
+- Java
+- Python
+- Visual Studio Code
+- Bootstrap
+- MySQL
+- Windows e Linux
 <!--
 **LosSaloni/LosSaloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
