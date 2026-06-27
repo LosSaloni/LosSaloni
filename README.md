@@ -1,5 +1,4 @@
 <h1 class="font-serif"> 𝓑𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵👋</h1>
-<h1 class="font-serif"> 𝓑asdsadsadsadsa</h1>
 <p>Estou estudando atualmente na Etec de cerquilho 2 DS noturno</p>
 
 Possuo conhecimento em
